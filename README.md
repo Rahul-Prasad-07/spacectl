@@ -1,8 +1,8 @@
-# `spacectl`, the Spacelift CLI
+# `spacectl`, the Spacelift CLI 
 
-`spacectl` is a utility wrapping Spacelift's [GraphQL API](https://docs.spacelift.io/integrations/api) for easy programmatic access in command-line contexts - either in manual interactive mode (in your local shell), or in a predefined CI pipeline (GitHub actions, CircleCI, Jenkins etc).
+`spacectl` is a utility wrapping Spacelift's [GraphQL API](https://docs.spacelift.io/integrations/api) for easy programmatic access in command-line contexts - either in manual interactive mode (in your local shell), or within a predefined CI/CD pipeline, such as GitHub Actions, CircleCI, or Jenkins.
 
-## Installation
+## Installation  
 
 ### Homebrew
 
